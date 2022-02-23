@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SADIQ19990
+- 👋 Hi, I’m @
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Python and javascript
 - 💞️ I’m looking to collaborate on ...
